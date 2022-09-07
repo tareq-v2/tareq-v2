@@ -1,4 +1,4 @@
 ## 👋 Hi, I’m @tareq-v2
-#### 👀 I’m interested in web developing
-#### 🌱 I’m currently learning php
-#### 💞️ I’m looking to collaborate on remote project
+#### 👀 Tareq interested in web developing
+#### 🌱 Tareq currently learning php
+#### 💞️ Tareq looking to collaborate on remote project
