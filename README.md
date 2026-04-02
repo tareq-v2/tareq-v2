@@ -1,4 +1,4 @@
 ## 👋 Hi, It's @tareq
-#### 👀 Tareq interested in web developing
+#### 👀 Tareq interested in death
 #### 🌱 Tareq currently learning AI
 #### 💞️ keep solving problems!
